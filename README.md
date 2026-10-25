@@ -72,22 +72,6 @@ prep-club-study-resources/
 
 ---
 
-## ⚠️ Important Guidelines Before Uploading
-
-1. **Check File Permissions & Copyright**:
-   - Coaching institute study materials, proprietary mock test series, and published commercial books are subject to copyright.
-   - Do **not** publish proprietary or commercial content in a public repository without permission.
-2. **Choose Repository Visibility Carefully**:
-   - We strongly recommend setting your GitHub repository to **Private** if you are storing copyright-protected study booklets, commercial guides, or mock papers.
-3. **Use Consistent, Hyphenated Names**:
-   - Use hyphens instead of spaces for directory and file names (e.g., `CAT-2022-Slot-1-Question-Paper.pdf`).
-   - This prevents issues across command-line tools, Git operations, and cross-platform syncing (macOS/Linux/Windows).
-4. **Adhere to File Size Limits**:
-   - GitHub has a strict **100 MB per-file limit** and recommends keeping repositories under **1 GB**.
-   - Large ZIP archives should be extracted into organized PDFs or hosted on private cloud storage with links provided in the index.
-
----
-
 ## 🤝 Contributing
 
 Contributions to organize, clean up, or expand these resources are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for full submission guidelines, naming conventions, and formatting standards.
